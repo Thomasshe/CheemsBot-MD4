@@ -36,7 +36,7 @@ global.APIKeys = {
 
 
 //aumto functioner
-global.autoTyping = false //auto tying in gc (true to on, false to off)
+global.autoTyping = true //auto tying in gc (true to on, false to off)
 global.autoreadpmngc = false //auto reading in gc and pm (true to on, false to off)
 global.autoReadGc = true //auto reading in gc (true to on, false to off)
 global.autoRecord = false //auto recording (true to on, false to off)
@@ -68,7 +68,7 @@ global.linkz = "https://youtu.be/WiIqCdiDjFo" //your theme url which will be dis
 global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD4' //script link
 global.reactmoji = "💌" //ur menu react emoji
-global.themeemoji = "♥️" //ur theme emoji
+global.themeemoji = "☠️" //ur theme emoji
 global.packname = "♡🅰🆁🅽🅰🅱🕊.⋆ " //ur sticker watermark packname
 global.author = "❚█══𝘛𝘏𝘌 𝘒𝘐𝘕𝘎 𝘈𝘙𝘕𝘈𝘉══█❚" //ur sticker watermark author
 
@@ -106,12 +106,12 @@ global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
     success: 'Done ✓',
-    admin: 'This Feature Is Only For Admin!',
-    botAdmin: 'Bot Must Be Admin First!',
-    owner: 'This Feature Is Only For Owner!',
+    admin: 'Admin De Age Laura!',
+    botAdmin: 'ARNAB BAP Must Be Admin First!',
+    owner: 'TOR BABA ARNAB CHARA USE KORTE PARBI NA!',
     group: 'Feature Used Only For Groups!',
     private: 'Features Used Only For Private Chat!',
-    bot: 'This Feature Is Only For Bot',
+    bot: 'This Feature Is Only For YOUR FATHER',
     wait: 'In process...',
     linkm: 'Where is the link?',
     error: 'Error!!',
